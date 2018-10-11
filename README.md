@@ -1,3 +1,3 @@
 # A Test Project
 
-> Just testing project initialization
+> Just testing project initialization settings

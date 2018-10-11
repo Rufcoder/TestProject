@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+package-lock.json
+
+# production
+build/**/*.js
+build/**/*.map
+build/**/*.d.ts
+
+# testing
+src/__coverage__
+
+#sass
+src/__styles__
+
+#documents
+docs
+docs-dev
+
+# misc
+.vscode
+*.log
+.env*
